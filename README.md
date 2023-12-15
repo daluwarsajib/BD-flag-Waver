@@ -2,7 +2,7 @@
 
 > Simple BD flag waving
 
-[krikienoid.github.io/flagwaver](https://krikienoid.github.io/flagwaver/)
+[https://bdflag.pages.dev/](https://bdflag.pages.dev/)
 
 ## Description
 
