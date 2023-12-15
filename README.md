@@ -16,9 +16,5 @@ BD FlagWaver is waving bd flag with national anthem
 
 **Dev tools** - Atom, clean-css
 
-**Frontend** - Preact, React Redux, Redux, Spectre.css, three.js
-
-
-
 ## Credits
 Based on previous work by [adgroup123](https://github.com/adgroup123)
