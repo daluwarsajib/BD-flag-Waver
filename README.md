@@ -13,6 +13,9 @@ BD FlagWaver is waving bd flag with national anthem
 - css
 - javascript
 
+  ## Note
+  If sound not working then enable 'auoplay media' in your browser setting
+
 
 **Dev tools** - Atom, clean-css
 
